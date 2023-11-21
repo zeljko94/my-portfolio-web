@@ -1,0 +1,272 @@
+{
+    "data": [
+        { 
+          "title": "Simple Webshop", 
+          "description": "Developed a simple Webshop as a college assignment. Frontend was made using Angular 8 and AdminLTE free Bootstrap template. Backend was made using PHP Laravel and MySQL.",
+          "longDescription": "As part of a challenging college assignment, I successfully developed a dynamic and user-friendly webshop, showcasing my proficiency in both frontend and backend technologies. Leveraging the power of Angular 8, I crafted an engaging and responsive frontend, seamlessly integrating the AdminLTE free Bootstrap template for a polished and intuitive user interface. On the backend, I utilized the robust PHP Laravel framework coupled with a MySQL database, ensuring optimal performance and data management. This project not only highlighted my technical skills in web development but also demonstrated my ability to deliver comprehensive solutions that meet both design and functionality requirements. Through this hands-on experience, I gained valuable insights into the intricacies of full-stack development, setting a solid foundation for my journey in the world of web application design and implementation.",
+          "img": "assets/img/portfolio/webshop.png",
+          "tags": ["PHP", "Laravel", "MySQL", "Angular 8", "Bootstrap 3"],
+          "companyName": "College assignment",
+          "startDate": "January 2017",
+          "endDate": "March 2017",
+          "githubLinks": ["https://github.com/zeljko94/webshop-angular", "https://github.com/zeljko94/webshop-rest"]
+        },
+        { 
+          "title": "LinguApp", 
+          "description": "Developed a user-friendly web application for efficiently booking classrooms within a language learning agency.",
+          "longDescription": "Designed and developed a comprehensive web application as a solution to streamline the classroom booking process within a dynamic language learning agency. The primary objective of the application was to replace the manual and potentially error-prone scheduling method previously handled through a shared Google Docs spreadsheet. The core functionality of the application revolves around a sophisticated calendar system. This calendar not only ensures the efficient allocation of classrooms but also prevents scheduling conflicts by providing a clear overview of which instructor is assigned to a particular classroom, during specific time slots, teaching a specific subject. This innovation eliminated the challenges associated with overlapping schedules. A user-friendly interface allows instructors to effortlessly add appointments to the calendar through a dedicated form. This intuitive approach significantly improved the user experience and reduced the time required to manage bookings. Beyond the calendar functionality, an extensive admin section was implemented, empowering administrators to manage various aspects of the system. This includes the addition and modification of skills, subjects, classrooms, levels, users, and more. Technologically, the backend was implemented using the robust PHP Laravel framework, ensuring a scalable and maintainable foundation. The frontend was developed with Angular 9, providing a responsive and interactive user interface. The use of Bootstrap 3 contributed to a modern and visually appealing design. The underlying MySQL database played a pivotal role in storing and retrieving data efficiently. This relational database management system ensured the integrity of the information, supporting the seamless operation of the application. In summary, this project not only modernized the classroom booking process but also enhanced organizational efficiency, accuracy, and user satisfaction within the language learning agency.",
+          "img": "assets/img/portfolio/lingua.jpg",
+          "tags": ["PHP", "Laravel", "MySQL", "Angular 9", "Bootstrap 3"],
+          "companyName": "College assignment",
+          "startDate": "April 2017",
+          "endDate": "August 2017",
+          "githubLinks": ["https://github.com/zeljko94/lingua-app", "https://github.com/zeljko94/laravel-lingua-app-rest"]
+        },
+        { 
+          "title": "FoodApp", 
+          "description": "Developed a seamless Android and desktop application for efficient food and drink ordering in a restaurant setting.",
+          "longDescription": "created an android and desktop application for ordering drinks and food in a restaurant. The applications are implemented in such a way that on every table in the restaurant there is an android device with a running application on which we can choose food and drinks from the menu. After we select items from the menu, press the 'Order' button, the created order is sent to the desktop application located in the bar, and the restaurant staff can immediately see from which table and what was ordered. In addition to ordering the menu itself, the application also provides detailed business information. The desktop application was created using JavaFX, and the android application was created using the Java programming language and Android Studio, a MySQL database was used.",
+          "img": "assets/img/portfolio/foodapp.png",
+          "tags": ["Android Studio", "Java", "JavaFX", "CSS", "MySQL"],
+          "companyName": "College assignment",
+          "startDate": "January 2015",
+          "endDate": "March 2015",
+          "githubLinks": ["https://github.com/zeljko94/FoodAppAndroid", "https://github.com/zeljko94/FoodAppDesktop"]
+        },
+        { 
+          "title": "Hotel Room CMS from scratch using PHP", 
+          "description": "The purpose of this app was creating a MVC rest api from scracth using PHP. It's a very simple app that lets users browse the rooms inside of a hotel and place orders.",
+          "longDescription": "Embarked on a comprehensive learning journey, I crafted an exemplary hotel reservation application as a pivotal college assignment, focusing on the meticulous creation of a robust MVC REST API from scratch using PHP, Bootstrap, and MySQL. The foundation of this project lies in the principled implementation of the MVC architecture, a fundamental paradigm in web development. With PHP as the driving force behind the backend, the application seamlessly weaves together the Model, View, and Controller components, illustrating a deep understanding of software design principles. The frontend, adorned with a modern and intuitive Bootstrap-based interface, ensures a delightful user experience. Through this application, users can effortlessly explore hotel rooms, gaining insights into features, availability, and pricing, all while adhering to the MVC structure. The reservation system, a cornerstone of the application, empowers users to make bookings with ease. The MySQL database, meticulously integrated into the architecture, serves as a reliable repository for storing and retrieving reservation details, highlighting the importance of robust data management. This project not only demonstrates mastery over MVC architecture but also underscores the commitment to continuous learning and the application of theoretical knowledge in a real-world context. Crafting this MVC REST API from scratch serves as a testament to the dedication to excellence in software engineering education.",
+          "img": "assets/img/portfolio/hotel-cms.jpg",
+          "tags": ["PHP", "HTML & CSS", "Bootstrap", "MySQL"],
+          "companyName": "College assignment",
+          "startDate": "October 2014",
+          "endDate": "November 2014",
+          "githubLinks": ["https://github.com/zeljko94/Hotel_Room_CMS"]
+        },
+        { 
+          "title": "Quiz app", 
+          "description": "A simple quiz app - college assignment",
+          "longDescription": "Created a simple quiz app. In the application, it is possible to create quizzes and questions together with the offered answers and an indicator that is the correct answer to that question. When we create a new quiz, we can attach questions that we created earlier to it. It also contains a screen for starting the quiz and displaying the results. The application was created as a college assignment for the purpose of learning the Rest API and the Angular framework.",
+          "img": "assets/img/portfolio/quiz.png",
+          "tags": ["PHP", "Laravel", "HTML & CSS", "Bootstrap", "Angular 6", "MySQL"],
+          "companyName": "College assignment",
+          "startDate": "October 2015",
+          "endDate": "November 2015",
+          "githubLinks": ["https://github.com/zeljko94/kviz-znanja-php-angular6"]
+        },
+        { 
+          "title": "FAHP (Fuzzy Analytic Hierarchy Process) - Moodle plugin", 
+          "description": "This application was created for the purpose of a thesis for my master's degree. The application enables input of N criteria and relationships between these criteria and does FAHP on the input data.",
+          "longDescription": "Developed as a pivotal component for my master's thesis, this application serves a crucial role in streamlining the intricate process of evaluating and assigning weights to multiple criteria. The application's core functionality revolves around the dynamic input of N criteria and the establishment of nuanced relationships between them. These relationships are articulated through a linguistic scale, allowing users to express degrees of relevance or dominance between criteria with precision. At the heart of the system is the utilization of the Fuzzy Analytic Hierarchy Process (FAHP) method for calculating weight values. This method, renowned for its ability to handle imprecise and uncertain information, provides a robust foundation for deriving scalar numbers that represent the relative importance of each entered criterion. The FAHP method enhances the accuracy and reliability of the weight values, contributing to a more nuanced and informed decision-making process. Implemented as a Moodle plugin, the application seamlessly integrates into the Moodle e-learning platform, harnessing the capabilities of PHP, JavaScript, and jQuery. This integration ensures a user-friendly and interactive experience, making complex analytical tasks accessible within the educational context. As both a practical implementation of theoretical concepts and a valuable tool for decision-makers, this application stands as a testament to the fusion of academic knowledge and real-world application in the realm of multi-criteria decision analysis.",
+          "img": "assets/img/portfolio/fahp.png",
+          "tags": ["PHP", "HTML & CSS", "Javascript", "Bootstrap", "jQuery", "Moodle"],
+          "companyName": "College assignment",
+          "startDate": "May 2018",
+          "endDate": "October 2018",
+          "githubLinks": ["https://github.com/zeljko94/fahp-moodle-plugin"]
+        },
+        { 
+          "title": "Text detection in scene images", 
+          "description": "Crafted as a robust text detection script, this project showcases an efficient and versatile tool for extracting textual information from images. Leveraging the OpenCV library and a pre-trained EAST (Efficient and Accurate Scene Text) detector model, the script seamlessly detects and highlights text regions in images.",
+          "longDescription": "This comprehensive text detection script, demonstrates proficiency in computer vision and image processing. Developed using Python and the OpenCV library, the script employs a pre-trained EAST (Efficient and Accurate Scene Text) detector model to dynamically process images, adeptly adjusting dimensions for optimal performance. Key features include the implementation of Non-Maximum Suppression (NMS) techniques—Felzenszwalb, FAST, and Malisiewicz algorithms—for precise text localization. The script goes beyond mere detection, visually enhancing results by drawing bounding boxes and polygons around identified text regions. Notably, its user-friendly interface allows for parameter customization, including confidence thresholds and image dimensions. Designed as a Moodle plugin, the script seamlessly integrates into the e-learning platform, showcasing adaptability and usability in educational contexts. This project encapsulates a robust technological stack and highlights practical implementation skills, making it a valuable asset that underscores the ability to create impactful solutions for real-world challenges.",
+          "img": "assets/img/portfolio/text-detection-opencv.jpg",
+          "tags": ["Python", "OpenCV"],
+          "companyName": "College assignment",
+          "startDate": "June 2019",
+          "endDate": "June 2019",
+          "githubLinks": ["https://github.com/zeljko94/text-detection-scene-image"]
+        },        { 
+          "title": "Python chat application", 
+          "description": "The chat application, developed as a bachelor's degree assignment in Python, comprises a server and client components, facilitating real-time communication.",
+          "longDescription": "This Python-based chat application, developed for a bachelor's degree assignment, features a server with a Tkinter GUI. The server initiates a TCP connection, manages connected clients using a threaded approach, and facilitates real-time communication. The GUI includes components for public chat, user input, and a list of online users. The server intelligently handles public and private messages, client connections, and disconnections. With a modular structure, adherence to coding standards, and clear documentation, this project showcases proficiency in networking, threading, and GUI development.",
+          "img": "assets/img/portfolio/python-chat-app.png",
+          "tags": ["Python", "TKinter", "socket", "threading", "networking", "TCP"],
+          "companyName": "College assignment",
+          "startDate": "March 2016",
+          "endDate": "November 2016",
+          "githubLinks": ["https://github.com/zeljko94/python_chat_application"]
+        },
+
+
+        
+
+
+        { 
+          "title": "Android App Development", 
+          "description": "Developed an Android app using Android Studio and Java, connecting to a Java SpringBoot backend and a MySQL database.",
+          "longDescription": "As a freelancer, I worked on developing an Android app that served as a clone of an existing healthcare web app. The app was built using Android Studio and Java, connecting to an existing Java SpringBoot backend and a MySQL database. I played a key role in the entire development process, from design to deployment.",
+          "img": "assets/img/portfolio/android-app-development.png",
+          "tags": ["Android Studio", "Java", "Spring Boot MVC", "MySQL"],
+          "companyName": "Freelance",
+          "startDate": "January 2016",
+          "endDate": "January 2017",
+          "githubLinks": ["Due to contractual obligations, I cannot share the source code or detailed implementation of this project publicly. However, I'm available to discuss it further in a private setting or during an interview"]
+        },
+        {
+          "title": "ZeroBet",
+          "description": "Played a pivotal role in a team of 5 developers for the complete platform solution of betting games, including frontend and backend development for live betting, games of chance, and virtual roulette.",
+          "img": "assets/img/portfolio/zerobet.jpg",
+          "longDescription": "Took part in the development of frontend and backend for bookmakers, optimizing odds and pairs display. Contributed to real-time data integration (Betradar). Designed, coded, and tested applications according to client specifications along another 2 fullstack devs, senior lead dev and a Q&A person. Participated in maintaining and improving applications for optimal performance.",
+          "tags": [".NET Framework", "Angular 6", "MSSQL Server"],
+          "companyName": "RSS d.o.o.",
+          "startDate": "March 2017",
+          "endDate": "June 2018",
+          "githubLinks": ["Due to contractual obligations, I cannot share the source code or detailed implementation of this project publicly. However, I'm available to discuss it further in a private setting or during an interview"]
+        },
+        { 
+          "title": "Web Development with PHP Laravel and Angular", 
+          "description": "Independently developed content management systems (CMS), webshops, and personal business websites using PHP Laravel for backend and Angular for frontend.",
+          "longDescription": "During my freelance work, I independently developed and delivered several content management systems (CMS), webshops, and personal business websites. These applications were built using the PHP Laravel framework for the backend and Angular for the frontend. I translated direct client requirements into functional applications through design, coding, and testing, ensuring successful project completion.",
+          "img": "assets/img/portfolio/angular-laravel.jpg",
+          "tags": ["PHP", "Javascript", "Laravel", "Angular 6"],
+          "companyName": "Freelance",
+          "startDate": "June 2018",
+          "endDate": "January 2019",
+          "githubLinks": ""
+        },
+        { 
+          "title": "Full Stack Development", 
+          "description": "Worked on various projects involving frontend, backend and mobile development, ensuring successful project completion.",
+          "longDescription": "Throughout my career, I've been involved in various projects encompassing both frontend and backend development. My responsibilities included design, coding, testing, and ensuring the successful completion of each project. I thrive in collaborative team environments and have a proven track record of adapting quickly to new project requirements, technologies, and team dynamics.",
+          "img": "assets/img/portfolio/fullstack-web-development.png",
+          "tags": ["PHP", "Javascript", "Laravel", "Angular 2+", "Java", "Python", "Node.js", "jQuery"],
+          "companyName": "",
+          "startDate": "",
+          "endDate": "",
+          "githubLinks": ""
+        },
+        { 
+          "title": "Waterway Management System", 
+          "description": "Collaborated on an interactive web application for waterway management using Java Spring MVC, Maven and Angular 12",
+          "longDescription": "At MegaIN2 d.o.o., I collaborated with a team of 5 developers to pioneer an interactive web application for waterway management. This application facilitated data storage, display, and maintenance, contributing to the transnational waterway monitoring system (WAMOS). Technologies used included Java Spring MVC, Maven, HTML & CSS, and JavaScript.",
+          "img": "assets/img/portfolio/waterway-management-system.png",
+          "tags": ["Java", "Spring Boot MVC", "Angular 12", "Maven"],
+          "companyName": "MegaIn2 d.o.o.",
+          "startDate": "May 2020",
+          "endDate": "July 2020",
+          "githubLinks": ["Due to contractual obligations, I cannot share the source code or detailed implementation of this project publicly. However, I'm available to discuss it further in a private setting or during an interview"]
+        },
+        { 
+          "title": "Financial Systems Enhancement", 
+          "description": "Enhanced the backend and frontend of financial systems using .NET Core, Entity Framework Core, HTML & CSS, JavaScript, and TypeScript.",
+          "longDescription": "At MegaIN2 d.o.o., I collaborated with a team of 5 developers to enhance the backend and frontend of financial systems to align with client specifications. The project involved implementing new functionalities and rectifying existing ones. Technologies used included .NET Core, Entity Framework Core, HTML & CSS, JavaScript, and ECMAScript.",
+          "img": "assets/img/portfolio/financial-systems.jpg",
+          "tags": [".NET Framework", "Entity Framework", "MSSQL Server", "HTML5 & CSS", "TypeScript"],
+          "companyName": "MegaIn2 d.o.o.",
+          "startDate": "July 2020",
+          "endDate": "August 2020",
+          "githubLinks": ["Due to contractual obligations, I cannot share the source code or detailed implementation of this project publicly. However, I'm available to discuss it further in a private setting or during an interview"]
+        },
+        { 
+          "title": "Employee Payroll Application", 
+          "description": "Independently developed and implemented an app for salary maintenance using .NET Core, MSSQL Server, and Oracle.",
+          "longDescription": "As part of MegaIN2 d.o.o., I worked independently on the development and implementation of an app for salary maintenance and tracking employee work per project. I collaborated with a business consultant and HR team members to obtain data about employees and their work hours from relevant sources. Technologies used included .NET Core, MSSQL Server, and Oracle.",
+          "img": "assets/img/portfolio/hr-payroll.png",
+          "tags": [".NET Core", "Entity Framework 6", "MSSQL Server", "Oracle", "Angular 12"],
+          "companyName": "MegaIn2 d.o.o.",
+          "startDate": "September 2020",
+          "endDate": "January 2021",
+          "githubLinks": ["Due to contractual obligations, I cannot share the source code or detailed implementation of this project publicly. However, I'm available to discuss it further in a private setting or during an interview"]
+        },   
+        {
+          "title": "INA – ProfitApp service",
+          "description": "Collaborated with a Quality Assurance (QA) specialist to create a loyalty customer service for the POS cash register with JWT token protection.",
+          "img": "assets/img/portfolio/profitapp.jpg",
+          "longDescription": "Led system development, ensuring successful deployment and maintenance within a team of 2.",
+          "tags": [".NET Core", "Entity Framework 6", "MSSQL Server"],
+          "companyName": "MegaIn2 d.o.o.",
+          "startDate": "August 2020",
+          "endDate": "February 2021",
+          "githubLinks": ["Due to contractual obligations, I cannot share the source code or detailed implementation of this project publicly. However, I'm available to discuss it further in a private setting or during an interview"]
+        },     
+        { 
+          "title": "Communication Platform Development", 
+          "description": "Collaborated on 'The Digital Chamber', a communication platform for business entities, public administration, and citizens, using .Net Core, Angular, Redis, MongoDB, and Postgres.",
+          "longDescription": "At MegaIN2 d.o.o., I played a key role in a team of 5 developers working on 'The Digital Chamber,' a communication platform for business entities, public administration, and citizens. Leveraging technologies such as .Net Core, Angular, Redis, MongoDB, and Postgres, we created a unique communication platform for e-services available to HGK members, the business community, public administration, and citizens. I contributed to adaptive and corrective maintenance of the system.",
+          "img": "assets/img/portfolio/digitalna-komora.jpg",
+          "tags": [".NET Core", "Entity Framework Core 6", "PostgreSQL", "Angular 12"],
+          "companyName": "MegaIn2 d.o.o.",
+          "startDate": "February 2021",
+          "endDate": "November 2021",
+          "githubLinks": ["Due to contractual obligations, I cannot share the source code or detailed implementation of this project publicly. However, I'm available to discuss it further in a private setting or during an interview"]
+        },
+        { 
+          "title": "Internal Application for Agricultural Group", 
+          "description": "Implemented an internal application for a prominent agricultural and food group using .NET Core, MSSQL Server, Postgresql, and Angular.",
+          "longDescription": "At MegaIN2 d.o.o., I collaborated with a team of 7 developers to implement an internal application for a prominent agricultural and food group. My role involved contributing to the successful development and deployment of the application. Technologies used included .NET Core, MSSQL Server, Postgresql, and Angular 12. Additionally, I led a team of 2 junior developers in creating an Android app that served as a clone of the web app using Flutter.",
+          "img": "assets/img/portfolio/agricultural-engineering.jpg",
+          "tags": [".NET Core", "Entity Framework Core 6", "PostgreSQL", "MSSQL Server", "Angular 12", "Azure"],
+          "companyName": "IT4 d.o.o. (formerly MegaIN2)",
+          "startDate": "July 2021",
+          "endDate": "August 2021",
+          "githubLinks": ["Due to contractual obligations, I cannot share the source code or detailed implementation of this project publicly. However, I'm available to discuss it further in a private setting or during an interview"]
+        },
+        { 
+          "title": "Government Bus Service Systems", 
+          "description": "Worked on the maintenance of systems for data analysis and business intelligence for Croatian Employment Service using .Net Core and Entity Framework Core.",
+          "longDescription": "At MegaIN2 d.o.o., I collaborated with a team consisting of 2 full-stack developers, 1 sys admin, and 1 DevOps/Quality Assurance (QA) specialist on the maintenance of systems for data analysis and business intelligence for Croatian Employment Service (HZZ - Hrvatski Zavod za Zapošljavanje). I participated in application development and implementation, testing, deployment, monitoring of the application in the production environment, and adaptive and corrective maintenance. My main responsibility was to gather data from secure endpoints, structure it, and pass it to the frontend developer, but I also worked on other parts of the application as needed.",
+          "img": "assets/img/portfolio/gsb.png",
+          "tags": [".NET Core", "Entity Framework Core 6", "MSSQL Server"],
+          "companyName": "MegaIn2 d.o.o.",
+          "startDate": "October 2021",
+          "endDate": "November 2021",
+          "githubLinks": ["Due to contractual obligations, I cannot share the source code or detailed implementation of this project publicly. However, I'm available to discuss it further in a private setting or during an interview"]
+        },
+        { 
+          "title": "JOPPD Public Tax and Income Tax Form Implementation", 
+          "description": "Contributed to the implementation of the JOPPD public tax and income tax form within the Croatian Employment Service using .Net Core.",
+          "longDescription": "At MegaIN2 d.o.o., I worked with a team consisting of 2 full-stack developers, 1 sys admin, and 1 DevOps/Quality Assurance (QA) specialist on the implementation of the JOPPD public tax and income tax form within the Croatian Employment Service (HZZ - Hrvatski Zavod za Zapošljavanje). I participated in application development and implementation, testing, deployment, monitoring of the application in the production environment, and adaptive and corrective maintenance. My main responsibility was to establish a secure connection with the government server via SSL, structure the data, and send it to the frontend developers. Additionally, I worked on other parts of the application as needed.",
+          "img": "assets/img/portfolio/tax-forms.jpg",
+          "tags": [".NET Core", "Entity Framework Core 6", "MSSQL Server"],
+          "companyName": "MegaIn2 d.o.o.",
+          "startDate": "November 2021",
+          "endDate": "February 2022",
+          "githubLinks": ["Due to contractual obligations, I cannot share the source code or detailed implementation of this project publicly. However, I'm available to discuss it further in a private setting or during an interview"]
+        },
+        {
+          "title": "Labor exchange portal",
+          "description": "Worked with a team consisting of myself and 1 DevOps/Quality Assurance (QA) specialist on the integration with external data retrieval systems in the European Union, facilitating communication between CES (Croatian Employment Service) and EURES (European employment services). Utilized technologies such as Perl, MySQL, Nginx for development. Main responsibility was updating existing Perl scripts which were used to sync CES database with EURES database, to work with the newly implemented EURES service.",
+          "img": "assets/img/portfolio/eures.png",
+          "longDescription": "Collaborated on the labor exchange portal project at MegaIn2 d.o.o., focusing on integrating external data retrieval systems in the European Union. Played a key role in facilitating communication between CES (Croatian Employment Service) and EURES (European employment services). Leveraged technologies such as Perl, MySQL, and Nginx for development. The main responsibility involved updating existing Perl scripts to sync CES database with the EURES database, ensuring compatibility with the newly implemented EURES service.",
+          "tags": ["Perl", "Apache", "Nginx", "MySQL"],
+          "companyName": "MegaIn2 d.o.o.",
+          "startDate": "February 2022",
+          "endDate": "April 2022",
+          "githubLinks": ["Due to contractual obligations, I cannot share the source code or detailed implementation of this project publicly. However, I'm available to discuss it further in a private setting or during an interview"]
+        },        
+        { 
+          "title": "Mobile Barcode Scanning App", 
+          "description": "Led a team in developing a mobile barcode scanning app for local marketplace inventory using Flutter, SQLite, Android, and iOS.",
+          "longDescription": "As the team lead for the mobile barcode scanning app project, I oversaw the entire development lifecycle. We aimed to create a robust solution for local marketplace inventory management. Leveraging Flutter for cross-platform development, SQLite for efficient data storage, and targeting both Android and iOS platforms, the app provided seamless barcode scanning functionality to streamline inventory processes. My role involved coordinating tasks, ensuring code quality, and leading a collaborative development effort.",
+          "img": "assets/img/portfolio/barcode-scanner.png",
+          "tags": [".NET Core", "Entity Framework Core 6", "MSSQL Server", "Flutter"],
+          "companyName": "IT4 d.o.o. (formerly MegaIN2)",
+          "startDate": "April 2022",
+          "endDate": "May 2022",
+          "githubLinks": ["Due to contractual obligations, I cannot share the source code or detailed implementation of this project publicly. However, I'm available to discuss it further in a private setting or during an interview"]
+        },
+        { 
+          "title": "Helpdesk Application", 
+          "description": "Worked as a full-stack developer to develop a helpdesk application using .Net Core, MSSQL Server, Angular 13, Flutter, Android, and iOS.",
+          "longDescription": "In my role as a full-stack developer, I actively contributed to the development of a comprehensive helpdesk application. The tech stack included .Net Core for backend functionality, MSSQL Server for database management, and Angular 13 for the frontend. Additionally, I played a key role in extending the application's reach by implementing Flutter to support both Android and iOS platforms. My responsibilities covered design, implementation, and ensuring seamless integration across diverse platforms.",
+          "img": "assets/img/portfolio/helpdesk.png",
+          "tags": [".NET Core", "Entity Framework Core 6", "PostgreSQL", "MSSQL Server", "Angular 12", "Flutter"],
+          "companyName": "IT4 d.o.o. (formerly MegaIN2)",
+          "startDate": "May 2022",
+          "endDate": "September 2022",
+          "githubLinks": ["Due to contractual obligations, I cannot share the source code or detailed implementation of this project publicly. However, I'm available to discuss it further in a private setting or during an interview"]
+        },
+        { 
+          "title": "Document Management System", 
+          "description": "Worked as a full-stack developer to develop a document management system using .Net Core, MSSQL Server, Angular 13, Flutter, Android, and iOS.",
+          "longDescription": "As a full-stack developer, I took part in the development of a sophisticated document management system. The system was designed to efficiently handle document storage, retrieval, and management tasks. Leveraging .Net Core for backend logic, MSSQL Server for robust data storage, and Angular 13 for the frontend, we created a seamless user experience. Additionally, the application was extended to mobile platforms using Flutter, supporting both Android and iOS. My role encompassed coding, testing, and ensuring a cohesive user experience across various devices.",
+          "img": "assets/img/portfolio/Document-Management-System.png",
+          "tags": [".NET Core", "Entity Framework Core 6", "PostgreSQL", "MSSQL Server", "Angular 12", "Flutter"],
+          "companyName": "IT4 d.o.o. (formerly MegaIN2)",
+          "startDate": "September 2022",
+          "endDate": "June 2023",
+          "githubLinks": ["Due to contractual obligations, I cannot share the source code or detailed implementation of this project publicly. However, I'm available to discuss it further in a private setting or during an interview"]
+        }
+      ]      
+}
