@@ -1,7 +1,9 @@
 # MyPortfolioWeb
 
 
-Welcome to my MyPortfolioWeb app! You can check it out [here](https://zeljko94.github.io/my-portfolio-web/).
+Welcome to my MyPortfolioWeb app! 
+
+You can check it out <a href="https://zeljko94.github.io/my-portfolio-web/" target="_blank">here</a>.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.8.
 
